@@ -1,0 +1,15 @@
+# Betriebssystemspezifische Dateien
+.DS_Store
+Thumbs.db
+
+# Python-spezifische Dateien
+__pycache__/
+*.py[cod]
+
+# Virtuelle Umgebungen
+venv/
+env/
+
+# Editor-spezifische Dateien
+.vscode/
+.idea/
